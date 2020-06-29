@@ -1,0 +1,11 @@
+# Logs
+npm-debug.log*
+
+# Node
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# Builds
+dist

@@ -1,8 +1,7 @@
 {
   "name": "pontiff",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Svelte UI component library",
   "scripts": {
     "start": "start-storybook -p 6006",
     "build": "build-storybook -o dist"
@@ -17,5 +16,8 @@
     "babel-loader": "^8.1.0",
     "svelte": "^3.23.2",
     "svelte-loader": "^2.13.6"
+  },
+  "repository": {
+    "url": "https://github.com/anthonytranDev/pontiff"
   }
 }

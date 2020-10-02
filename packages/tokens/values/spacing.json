@@ -1,0 +1,22 @@
+{
+  "spacing": {
+    "base": {
+      "value": "{spacing.xs.value}"
+    },
+    "xs": {
+      "value": 4
+    },
+    "sm": {
+      "value": 8
+    },
+    "md": {
+      "value": 16
+    },
+    "lg": {
+      "value": 24
+    },
+    "xl": {
+      "value": 36
+    }
+  }
+}

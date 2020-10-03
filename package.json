@@ -3,23 +3,13 @@
   "version": "0.0.1",
   "description": "Svelte UI component library",
   "scripts": {
-    "start": "start-storybook -p 6006",
-    "build": "build-storybook -o dist",
     "build:tokens": "node packages/tokens/build.js"
   },
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.10.3",
-    "@storybook/addon-actions": "^5.3.19",
-    "@storybook/addon-links": "^5.3.19",
-    "@storybook/addons": "^5.3.19",
-    "@storybook/svelte": "^5.3.19",
-    "babel-loader": "^8.1.0",
     "cross-env": "^7.0.2",
     "prettier-plugin-svelte": "^1.4.0",
-    "style-dictionary": "^2.10.1",
-    "svelte": "^3.23.2",
-    "svelte-loader": "^2.13.6"
+    "style-dictionary": "^2.10.1"
   },
   "repository": {
     "url": "https://github.com/anthonytranDev/pontiff"
